@@ -1,4 +1,4 @@
-# sqs-clean
+# sqs-purge
 Purge a SQS queue on AWS.
 Can be useful for running tests, but keep in mind that purge operations
 are allowed every 60 seconds.
